@@ -11,7 +11,7 @@ class BalanceState extends Equatable {
   const BalanceState({
     this.status = BalanceStatus.initial,
     this.balance = 0.0,
-    this.isHidden = false,
+    this.isHidden = true,
     this.errorMessage,
   });
 

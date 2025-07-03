@@ -1,6 +1,5 @@
 import 'package:money_app/features/home/domain/entities/transction.dart';
 
-
 class TransactionModel extends Transaction {
   TransactionModel({
     required super.id,
@@ -9,20 +8,18 @@ class TransactionModel extends Transaction {
   });
 
   factory TransactionModel.fromJson(Map<String, dynamic> json) {
-    final rawBody = json['body']?.toString() ?? '0';
-    final parsedAmount = double.tryParse(rawBody) ?? 0.0;
     return TransactionModel(
       id: json['id'] as int,
-      amount: parsedAmount,
-      date: DateTime.now(),
+      amount: (json['amount'] as num).toDouble(),
+      date: DateTime.parse(json['date'] as String),
     );
   }
 
   Map<String, dynamic> toJson() {
     return {
-      'title': 'send_money',
-      'body': amount.toString(),
-      'userId': 1,
+      'id': id,
+      'amount': amount,
+      'date': date.toIso8601String(),
     };
   }
 }

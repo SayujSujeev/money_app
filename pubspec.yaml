@@ -39,6 +39,8 @@ dependencies:
   http: ^1.4.0
   equatable: ^2.0.7
   intl: ^0.20.2
+  sliding_action_button: ^0.0.7
+  get_it: ^8.0.3
 
 dev_dependencies:
   flutter_test:
