@@ -35,7 +35,7 @@ Follow these instructions to run the app and unit tests on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/money_app.git
+   git clone https://github.com/sayujsujeev/money_app.git
    cd money_app
    ```
 2. Install dependencies:
