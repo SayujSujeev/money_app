@@ -12,14 +12,13 @@ A Flutter application for sending money, viewing wallet balance, and transaction
 
 ## Screenshots
 
+Display the key app screens in a neat grid with smaller thumbnails:
 
-
-![Splash Screen](assets/screenshots/splash.jpg)
-![Home Screen](assets/screenshots/home.jpg)
-![Send Money Screen](assets/screenshots/sent.jpg)
-![Send Money Success](assets/screenshots/sent_s.jpg)
-![Transaction History](assets/screenshots/history.jpg)
-
+|                      Splash Screen                      |                        Home Screen                       |                       Send Money                      |
+| :-----------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: |
+| <img src="assets/screenshots/splash.jpg" width="120" /> |   <img src="assets/screenshots/home.jpg" width="120" />  | <img src="assets/screenshots/sent.jpg" width="120" /> |
+|                       Send Success                      |                    Transaction History                   |                                                       |
+| <img src="assets/screenshots/sent_s.jpg" width="120" /> | <img src="assets/screenshots/history.jpg" width="120" /> |                                                       |
 
 ## Getting Started
 
@@ -36,7 +35,7 @@ Follow these instructions to run the app and unit tests on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sayujsujeev/money_app.git
+   git clone https://github.com/<your-username>/money_app.git
    cd money_app
    ```
 2. Install dependencies:
@@ -77,3 +76,4 @@ lib/
 │           └── pages/  # UI screens
 test/                # Unit tests mirroring lib/ structure
 ```
+
