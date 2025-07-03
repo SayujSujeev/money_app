@@ -12,7 +12,6 @@ A Flutter application for sending money, viewing wallet balance, and transaction
 
 ## Screenshots
 
-Display the key app screens in a neat grid with smaller thumbnails:
 
 |                      Splash Screen                      |                       Home Screen                        |                      Send Money                       |
 |:-------------------------------------------------------:|:--------------------------------------------------------:|:-----------------------------------------------------:|
