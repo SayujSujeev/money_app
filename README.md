@@ -16,9 +16,9 @@ Display the key app screens in a neat grid with smaller thumbnails:
 
 |                      Splash Screen                      |                       Home Screen                        |                      Send Money                       |
 |:-------------------------------------------------------:|:--------------------------------------------------------:|:-----------------------------------------------------:|
-| <img src="assets/screenshots/splash.jpg" width="150" /> |  <img src="assets/screenshots/home.jpg" width="150" />   | <img src="assets/screenshots/sent.jpg" width="150" /> |
+| <img src="assets/screenshots/splash.jpg" width="200" /> |  <img src="assets/screenshots/home.jpg" width="200" />   | <img src="assets/screenshots/sent.jpg" width="200" /> |
 |                      Send Success                       |                   Transaction History                    |                                                       |
-| <img src="assets/screenshots/sent_s.jpg" width="150" /> | <img src="assets/screenshots/history.jpg" width="150" /> |                                                       |
+| <img src="assets/screenshots/sent_s.jpg" width="200" /> | <img src="assets/screenshots/history.jpg" width="200" /> |                                                       |
 
 ## Getting Started
 
