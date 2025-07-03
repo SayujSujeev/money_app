@@ -12,15 +12,14 @@ A Flutter application for sending money, viewing wallet balance, and transaction
 
 ## Screenshots
 
-Add screenshots to illustrate the UI. Place your images in `assets/screenshots/` and reference them below:
 
-<!--
+
 ![Splash Screen](assets/screenshots/splash.jpg)
 ![Home Screen](assets/screenshots/home.jpg)
 ![Send Money Screen](assets/screenshots/sent.jpg)
 ![Send Money Success](assets/screenshots/sent_s.jpg)
 ![Transaction History](assets/screenshots/history.jpg)
--->
+
 
 ## Getting Started
 
