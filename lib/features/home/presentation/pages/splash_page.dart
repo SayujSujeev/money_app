@@ -14,8 +14,8 @@ class _SplashPageState extends State<SplashPage> {
   @override
   void initState() {
     super.initState();
-    // After 2 seconds, go to Dashboard
     Future.delayed(const Duration(seconds: 2), () {
+      if (!mounted) return;
       Navigator.pushReplacementNamed(context, DashboardPage.routeName);
     });
   }

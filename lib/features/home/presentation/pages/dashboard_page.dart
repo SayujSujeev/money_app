@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:money_app/features/home/presentation/bloc/balance_cubit.dart';
 import 'package:money_app/features/home/presentation/pages/balance_page.dart';
 import 'package:money_app/features/home/presentation/pages/history_page.dart';
 import 'package:money_app/features/home/presentation/pages/send_money_page.dart';

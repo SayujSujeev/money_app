@@ -30,13 +30,6 @@ class _SendMoneyPageState extends State<SendMoneyPage> {
     });
   }
 
-  void _submit() {
-    final parsed = double.tryParse(_amount);
-    if (parsed != null && parsed > 0) {
-      context.read<SendMoneyCubit>().submit(parsed);
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     final balanceState = context.watch<BalanceCubit>().state;
