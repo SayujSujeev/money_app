@@ -14,11 +14,11 @@ A Flutter application for sending money, viewing wallet balance, and transaction
 
 Display the key app screens in a neat grid with smaller thumbnails:
 
-|                      Splash Screen                      |                        Home Screen                       |                       Send Money                      |
-| :-----------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: |
-| <img src="assets/screenshots/splash.jpg" width="120" /> |   <img src="assets/screenshots/home.jpg" width="120" />  | <img src="assets/screenshots/sent.jpg" width="120" /> |
-|                       Send Success                      |                    Transaction History                   |                                                       |
-| <img src="assets/screenshots/sent_s.jpg" width="120" /> | <img src="assets/screenshots/history.jpg" width="120" /> |                                                       |
+|                      Splash Screen                      |                       Home Screen                        |                      Send Money                       |
+|:-------------------------------------------------------:|:--------------------------------------------------------:|:-----------------------------------------------------:|
+| <img src="assets/screenshots/splash.jpg" width="150" /> |  <img src="assets/screenshots/home.jpg" width="150" />   | <img src="assets/screenshots/sent.jpg" width="150" /> |
+|                      Send Success                       |                   Transaction History                    |                                                       |
+| <img src="assets/screenshots/sent_s.jpg" width="150" /> | <img src="assets/screenshots/history.jpg" width="150" /> |                                                       |
 
 ## Getting Started
 
